@@ -1,0 +1,6 @@
+{
+  "name": "Vraiga - Services Techniques Abidjan",
+  "description": "Plateforme à la demande de services techniques à domicile à Abidjan (Canal+/TNT, Fixation TV, Climatisation, Vidéosurveillance) avec dispatch en direct, portefeuilles Mobile Money et panneau d'administration.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
